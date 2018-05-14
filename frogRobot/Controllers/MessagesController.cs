@@ -16,7 +16,6 @@ using Microsoft.Bot.Builder.Dialogs;
 namespace frogRobot
 {
     [BotAuthentication]
-    //[BotAuthentication(MicrosoftAppId = "47713bd9-109c-4f32-8df2-9f94292aa6b2", MicrosoftAppPassword = "mtwHUPNVV34[*^xgmaI986*")]
     public class MessagesController : ApiController
     {
         /// <summary>
